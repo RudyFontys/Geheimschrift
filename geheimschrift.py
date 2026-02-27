@@ -1,4 +1,5 @@
 # Geheimschrift CLI - zonder imports (alleen basis Python)
+# test
 
 def normalize(s):
     # consistent maken: trim + lower
